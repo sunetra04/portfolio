@@ -7,8 +7,8 @@ export default function Projects() {
       id: 1,
       title: "Portfolio Website",
       desc: "A sleek portfolio built with React + Tailwind CSS.",
-      github: "https://github.com/your-username/portfolio",
-      demo: "https://your-portfolio-link.com",
+      github: "https://github.com/sunetra04/portfolio",
+      demo: "https://sunetra04.github.io/portfolio/",
     },
     {
       id: 2,
